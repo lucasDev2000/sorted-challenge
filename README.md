@@ -49,7 +49,7 @@ Este projeto é uma aplicação web para gerenciar sorteios de amigo secreto. Pe
 
 ## Autor
 
-[Seu Nome]
+Lucas Oliveira
 
 ## Licença
 
